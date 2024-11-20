@@ -96,9 +96,9 @@ The documentation for the policy libraries consists of Markdown files within thi
 
 The following CIS standards have equivalent Sentinel policies written for them. These policies get enforced between the `plan` and `apply` phase whenever a run gets queued in TFC/TFE.
 
-- [rds-encryption-at-rest-enabled](./docs/policies/rds-encryption-at-rest-enabled.md)
-- [rds-minor-version-upgrade-enabled](./docs/policies/rds-minor-version-upgrade-enabled.md)
-- [rds-public-access-disabled](./docs/policies/rds-public-access-disabled.md)
+- rds-encryption-at-rest-enabled
+- rds-minor-version-upgrade-enabled
+- rds-public-access-disabled
 
 ### Minimum Sentinel Version Required
 
